@@ -1,0 +1,8 @@
+C:\Users\Marko29\source\repos\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe.config
+C:\Users\Marko29\source\repos\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe
+C:\Users\Marko29\source\repos\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.pdb
+C:\Users\Marko29\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.csproj.AssemblyReference.cache
+C:\Users\Marko29\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marko29\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Marko29\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.exe
+C:\Users\Marko29\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.pdb
